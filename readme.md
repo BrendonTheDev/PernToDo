@@ -1,5 +1,7 @@
 # To-Do Application Created With the Pern Stack
 
+![Project-Image](image-1.png)
+
 # What I Learned
 
 This project was my first full stack application. I built a Restful API that used CRUD operations to manipulate data in a PostgreSQL database. The UI is dynamically rendered using the data found in the Database table.
